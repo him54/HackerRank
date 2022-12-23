@@ -21,7 +21,7 @@ class Solution {
         {
             System.out.println(15 * (d2 - d1));
         } else {
-            System.out.println(500 * (m2 - m1));
+            System.out.println(500  (m2 - m1));
         }
     }
 }
